@@ -2,7 +2,6 @@
 
 This is simple model for bypassing google captcha using Selenium and Gecko web driver.
 
-Run with:
 - unittest library for running and error handeling
 - Buster captcha solver (https://github.com/dessant/buster)
 - and B-spline for simulate human mouse moments.
